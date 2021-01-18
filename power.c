@@ -1,3 +1,11 @@
+// power.c
+// ผลลัพธ์
+// Enter the base
+// 2
+// Enter the exponent
+// 3
+// The power of the no = 8
+
 #include<stdio.h>
 void main(){
     system("cls");
